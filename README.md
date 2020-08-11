@@ -1,2 +1,2 @@
-# Java
-Aulas de Java
+# Proffy
+Projeto realizado pela Rocketseat na semana NLW2.
